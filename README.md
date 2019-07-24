@@ -16,6 +16,7 @@ Features
 * Supports Alpine, CentOS, Debian, and Ubuntu.
 * Installs HAProxy 1.5 from official repositories on Debian and Ubuntu.
 * Installs EPEL repository on CentOS.
+* Meant to fork and fix issues in PR 112 and 117 https://github.com/devops-coop/ansible-haproxy/issues/112
 
 Role Variables
 --------------
